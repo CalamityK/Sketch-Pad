@@ -1,12 +1,12 @@
 .grid {
     border: solid 1px black;
-    height: 75px;
-    width: 75px;
     transition: background-color .5s ease-in-out;
 }
 
 #container {
     display: grid;
+    height: 1000px;
+    width: 1000px;
 }
 
 .grid:hover {
